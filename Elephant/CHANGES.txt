@@ -1,0 +1,12 @@
+commit 7c3e8a0d4406b5c60662be3614ce534a85c2a1dc
+Author: AllInOneMighty <emmanuel.cron@gmail.com>
+Date:   Thu Jul 18 01:51:46 2019 -0700
+
+    Updating TOC
+
+commit c03dbec7d5734c08b86b40cd4c5d643c8bf61945
+Author: AllInOneMighty <emmanuel.cron@gmail.com>
+Date:   Thu Jul 18 01:21:48 2019 -0700
+
+    Comitting previous version
+
