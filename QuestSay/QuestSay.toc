@@ -1,0 +1,10 @@
+## Interface: 13200
+## Title: QuestSay
+## Author: carahuevo
+## Version: 2.0.1-revived
+## Notes: Slash command function to print out quest info in chat channels.
+## Notes-esES: Comando para imprimir los objetivos de un Quest en el chat.
+localization_en.lua
+localization_es.lua
+QuestSay.xml
+
